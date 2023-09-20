@@ -1,0 +1,16 @@
+{
+    "name": "BundleDiff.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0455dc5530980bb4a8082dcde50fe623"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
